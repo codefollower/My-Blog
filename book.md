@@ -28,13 +28,234 @@
 
 ### 1.1 与计算机相关的数学
 主要有: 微积分、线性代数、概率论与数理统计、离散数学
-<p>
-![1-1-1](https://github.com/codefollower/My-Blog/blob/master/book-images/1-1-1.jpg)
-![1-1-2](https://github.com/codefollower/My-Blog/blob/master/book-images/1-1-2.jpg)
-![1-1-3](https://github.com/codefollower/My-Blog/blob/master/book-images/1-1-3.jpg)
-![1-1-4](https://github.com/codefollower/My-Blog/blob/master/book-images/1-1-4.jpg)
+
+![1-1-1](http://ww1.sinaimg.cn/mw690/69af9baegw1ea6yntn36gj20bj0fwabb.jpg)
+![1-1-2](http://ww2.sinaimg.cn/mw690/69af9baegw1ea6ynvrzecj20bf0fddgu.jpg)
+![1-1-3](http://ww2.sinaimg.cn/mw690/69af9baegw1ea6ynurcbmj20bh0ebwfh.jpg)
+![1-1-4](http://ww1.sinaimg.cn/mw690/69af9baegw1ea6ynwymf4j20b50fmta1.jpg)
 相对来说离散数学最有用，其他三门在从事数值计算、计算机图形学、算法复杂度分析等领域会用得多一些，
 国内的大学很多都是使用高等教育出版社同济大学写的书，我也读过，
 不过，我还是推荐顺便读一读国外出的这4本，学这4门课对自己的要求不必像数学系的学生那么苛刻，能达到70分的水准就够用了。
 
 
+### 1.2 计算机科学导论
+![1-2-1](http://ww1.sinaimg.cn/mw690/69af9baegw1ea6ynybsguj20aw0f5gmv.jpg)
+
+顾名思义，这是计算机专业的学生第一本要读的专业书，
+这本书对整个计算机科学的各个领域做了一个概述，点到为止，
+包括最基本的十进制、二进制、十六进制；数据的存储、运算；
+计算机组成、网络、操作系统、算法与数据结构、程序设计语言、数据库、计算人工智能等等。
+
+读完这本书，就知道整个计算机学科都有哪些东西了，这本书适合泛读，若碰到不理解的，可以直接跳过。
+
+
+### 1.3 C程序设计语言
+![1-3-1](http://ww2.sinaimg.cn/mw690/69af9baegw1ea6ynzhi74j20b60fggmx.jpg)
+程序设计的入门课，"Hello，World"就出自这里，虽然只有160多页，却是永恒的经典。
+此书要精读，并且需要在电脑上跑通书上的代码例子，习题也要做一做。
+![1-3-2](http://ww3.sinaimg.cn/mw690/69af9baegw1ea6yo0md1bj20cl0gxt9x.jpg)
+另外，推荐再读<<程序设计抽象思想－C语言描述>>，这本书即是C语言的应用实践课，又是进一步学习数据结构和算法的入门读物，
+书里用了大量的例子介绍了递归、堆栈、链表、树、图等等非常常用的知识，并且还引申到Java的一些基本概念。
+
+
+### 1.4 理解计算机系统
+![1-4-1](http://ww1.sinaimg.cn/mw690/69af9baegw1ea6yo1s2euj20bj0f93zn.jpg)
+这本书主要是介绍计算机整体的软、硬件系统的，包括处理器、存储器层次结构、虚拟存储器、链接、IO、网络等等，
+读完它你大概知道你所写的程序是怎么通过计算机的硬件和底层软件系统运行的，
+里面时不时提到C语言，所以先学C语言再学这本书比较合理(或者穿插着学也可以)。
+![1-1-4](http://ww1.sinaimg.cn/mw690/69af9baegw1ea6yo2snfoj20b40enjsf.jpg)
+另外，可选的，推荐再读<<计算要组成及汇编语言原理>>，书不厚，240多页，最主要是以Java虚拟机为例来讲的。
+我在读自考大专时是用这本: [IBM-PC宏汇编语言程序设计](http://book.douban.com/subject/1664186/)
+
+### 1.5 算法导论
+![1-5-1](http://ww3.sinaimg.cn/mw690/69af9baegw1ea6yo43ifjj20be0eyq42.jpg)
+学算法的都知道这本书吧，非常有名，老实说这书有点难度，需要自己慢慢啃，
+去大公司面试时特别用得着，快速排序、二叉树、红黑树、动态规划、最短路径这类算法会常拿出来问的。
+
+
+### 1.6 操作系统
+![1-6-1](http://ww2.sinaimg.cn/mw690/69af9baegw1ea6yo5dduvj20bn0erwfn.jpg)
+![1-6-2](http://ww2.sinaimg.cn/mw690/69af9baegw1ea6yo6hpy3j20bo0dv756.jpg)
+进程、线程、CPU调度、同步、死锁、内存管理、虚拟内存、文件系统、I/O系统这些最基本的概念和原理必须掌握和理解透，
+对于以后的工作是相当有用的。
+
+### 1.7 计算机网络
+
+http://book.douban.com/subject/1179807/
+这本书一时没找到，我就不拍照片了，只要大概了解一下即可，除非打算将来做网络管理员之类的工作。
+
+
+### 1.8 程序语言理论与编译原理
+![1-8-1](http://ww3.sinaimg.cn/mw690/69af9baegw1ea6yo7xrz2j20b60f7jsp.jpg)
+![1-8-2](http://ww1.sinaimg.cn/mw690/69af9baegw1ea6yo95lz5j20bf0g2dh1.jpg)
+![1-8-3](http://ww2.sinaimg.cn/mw690/69af9baegw1ea6yoac8uhj20bf0e70th.jpg)
+![1-8-4](http://ww3.sinaimg.cn/mw690/69af9baegw1ea6yobin0bj20b80fsjss.jpg)
+![1-8-5](http://ww3.sinaimg.cn/mw690/69af9baegw1ea6yocv735j20bj0fm405.jpg)
+![1-8-6](http://ww4.sinaimg.cn/mw690/69af9baegw1ea6yodxdc6j20bd0fs3zj.jpg)
+![1-8-7](http://ww2.sinaimg.cn/mw690/69af9baegw1ea6yof76m6j20bh0fmt9y.jpg)
+![1-8-8](http://ww4.sinaimg.cn/mw690/69af9baegw1ea6yogasonj20bg0e9ab3.jpg)
+这是我目前工作和研究的领域。
+
+这类书比较偏理论，会有点难读，不过我还是强烈建议你硬着头皮认真读一读，
+只要你能理解透书中的内容，以后你再学习新的程序语言都是件轻而易举的事，
+并且也是从事数据库SQL引擎研究的前提。
+
+先读<<自动机理论、语言和计算导论>>，
+里面告诉你什么是自动机、什么是正则语言、什么是上下文无关语言，还有图灵机。
+清华大学的<<形式语言与自动机理论>>也可以同时看。
+
+接着就可以看<<编译原理>>了，此书也叫“龙书”，当你想从事编译器开发时这本书是必看的，
+<<编译原理>>出了两个版本了，如果有钱的话我还是建议你两个版本都买，
+<<编译原理>>和<<自动机理论、语言和计算导论>>的内容有一些重叠，
+有些人一上来就直接看<<编译原理>>而不看自动机和形式语言，这会有点难，
+<<自动机理论、语言和计算导论>>算是<<编译原理>>的前导课程。
+
+最后可以再读读<<程序设计语言原理>>和<<程序设计语言实践之路>>
+这两本书其实不偏重理论的，有了前面的基础反而更简单，算是各类程序语言的综述，
+各种泛式的语言都有涉及，包括: 过程式语言、面向对象、函数式语言，甚至基于逻辑的程序语言都讲了(比如Prolog)。
+
+
+
+### 1.9 数据库
+![1-9-1](http://ww3.sinaimg.cn/mw690/69af9baegw1ea6yohikzgj20bp0fwwfy.jpg)
+![1-9-2](http://ww4.sinaimg.cn/mw690/69af9baegw1ea6yoinx2aj20b60f0ab8.jpg)
+![1-9-3](http://ww3.sinaimg.cn/mw690/69af9baegw1ea6yojqtngj20ax0evwfk.jpg)
+![1-9-4](http://ww3.sinaimg.cn/mw690/69af9baegw1ea6yokuujij20bm0evabb.jpg)
+
+这也是我现在的工作和研究领域。
+
+要说数据库和程序语言是整个计算机学科应用最广泛的领域应该没有人会反对，
+关系数据库管理系统(RDBMS)在过去的几十年直到现在都占着绝对的统治地位，
+随着互联网、社交网络的发展以及数据量的增长，图数据库、NoSQL都在蓬勃发展，
+所以可以预计未来5年内数据库会是一个非常活跃的领域。
+
+数据库的理论书籍不需要读得太多，
+只要读完上面的<<数据库系统基础教程>><<数据库系统实现>>基本上够用了，
+当然，你需要慢慢的品尝、要精读，至少要读两遍以上。
+
+<<事务处理>>这本书如果你将来不从事数据库事务领域的研究不需要读，
+前面两本书中也会有好几个章节讲事务相关的知识。
+
+
+至此，如果能学完、学好上面9小节中列出的书籍和相关知识，
+那么恭喜你，你的计算机基础已经打得非常牢固了。
+
+
+
+## 2. Java相关书籍
+
+### 2.1 入门
+![2-1-1](http://ww1.sinaimg.cn/mw690/69af9baegw1ea6yolvuc3j20bk0ffwfi.jpg)
+![2-1-2](http://ww2.sinaimg.cn/mw690/69af9baegw1ea6yomzb8ij20bp0ev75e.jpg)
+我用的版本比较老，<<Java核心技术>> 最新已出到第9版了，只有经得起时间考验的书才值得一版再版，
+每一个Java程序员都应该持有一本<<Java核心技术>> 。
+无需多说，除了AWT、Swing、Applet、RMI、CORBA、XML、JNI用得相对较少或过时的技术章节之外，
+其他的你应该而且必须好好细读并且一边读一边在电脑上面操作练习。
+
+另外，有关线程、IO、JDBC、网络、安全相关的章节在下面都会有更专业的书来介绍，
+这类书归入进阶类。
+
+### 2.2 Java 线程
+![2-2-1](http://ww1.sinaimg.cn/mw690/69af9baegw1ea6yoo6d9hj20ba0ert9y.jpg)
+这本书讲了有关线程的各种API，还有一些基本概念:死锁、竞态条件、锁、条件变量、屏障等等，
+如果你想从事一些类似Tomcat这种Server的开发，理解线程相关的东西是非常必要的。
+
+### 2.3 Java IO/NIO
+
+http://book.douban.com/subject/1433583/
+我是在原来的公司内部看的英文电子版，跟<<Java线程>> 的风格类似，完整的介绍相关API和基本概念。
+NIO的知识对于实现像Netty这样的高性能网络框架必不可少，同样像Tomcat、Jetty也太量运用了NIO。
+
+### 2.4 Java 网络编程
+![2-4-1](http://ww4.sinaimg.cn/mw690/69af9baegw1ea6yopg58gj20bp0fe757.jpg)
+又是一本经典好书，如果你想写出好的网络程序，必须读读这本书，
+InetAddress、Socket要是你连这些都还不懂，赶紧买这本书来看。
+
+### 2.5 Java 安全
+![2-5-1](http://ww3.sinaimg.cn/mw690/69af9baegw1ea6yoqf1i8j20bd0enwfc.jpg)
+一本常被“无视”的好书，在国内没多少人听说过...此书作者跟<<Java 线程>> 的作者是同一个人，
+书里介绍了Java的整个安全模型，沙箱、安全管理器、密匙、证书、消息摘要、数字签名、SSL等等，
+这本书并不讲高深的理论，非常实用，
+在Tomcat、Jetty、Netty、Cassandra、H2这类开源项目需要涉及安全的地方都会用到这书里提到的一些技术。
+
+### 2.6 Java JDBC
+
+http://book.douban.com/subject/1886537/
+
+我也是看的电子版，不过没读完，因为之前看过JDBC规范了，所以就没什么必要再细读它，
+虽然类似Hibernate和iBatis这类ORM和SQLMapping框架用得比较多，
+不过我还是推荐你先把JDBC掌握了，这样不管以后你去看MySQL的JDBC驱动还是iBatis的源代码都会非常有帮助。
+
+### 2.7 Effective Java
+![2-7-1](http://ww4.sinaimg.cn/mw690/69af9baegw1ea6yorj8qoj20bg0ep3zm.jpg)
+2002年度Jolt大奖，慢慢品味吧，我就不啰嗦了。
+
+### 2.8 Java与模式
+
+我的书没找到，只给个链接吧，
+
+http://book.douban.com/subject/1214074/
+
+这本书其实不合我的口味，太厚太啰嗦，我并不喜欢里面的故事，比如击鼓传花什么的，
+如果把此书浓缩到300页左右会更理想。
+
+
+### 2.9 Servlet与JSP
+![2-9-1](http://ww4.sinaimg.cn/mw690/69af9baegw1ea6yosq5drj20bm0f60u0.jpg)
+如果你要做Java web开发，了解Servlet与JSP的基础知识是必须的，如果你要研究Tomcat，也必须精通Servlet与JSP的相关规范。
+
+### 2.10 J2EE核心模式
+![2-10-1](http://ww2.sinaimg.cn/mw690/69af9baegw1ea6yotn6m6j20ba0ejwf9.jpg)
+J2EE已变成了JavaEE，Spring把J2EE的水搅混了，以致于Java企业级开发包括国内某大型互联网公司的内部都是Spring的天才，
+不过，J2EE的一些设计模式你还是可以了解一下的。
+
+
+### 2.11 Java虚拟机
+![2-11-1](http://ww2.sinaimg.cn/mw690/69af9baegw1ea6younk91j20bl0f5gmk.jpg)
+![2-11-2](http://ww2.sinaimg.cn/mw690/69af9baegw1ea6yovsfamj20bj0epdh1.jpg)
+国内有关Java虚拟机的书非常少，
+<<深入理解Java虚拟机>> 是国产的，算是国产书里面相对还可以的技术书籍，内容能跟上时代，
+注重实用性，当然，还不够深度，更侧重概念的理解而不是如何实现，
+另一本<<深入Java虚拟机>> 是国外的，可能很难买得到了，内容有点陈旧，
+不过，如果你能买得到我还是推荐你读一读，还是有实用价值的，
+比如我在2007年研究Java语言编译器(javac)时就从这书上学到了非常多的有用知识，
+特别是从第5章开始以后的章节都写得不错。
+
+
+### 2.12 Java并发编程
+![2-12-1](http://ww3.sinaimg.cn/mw690/69af9baegw1ea6yowv322j20be0eqgmm.jpg)
+把这本书放到最后，主要还是因为这本书还是有点难度的，并发问题都是高级主题，
+比如书中举了一些Servlet的例子，要是你没学过Servlet你就会不太明白例子的用意是什么，
+当然还有线程的东西你也需要知道，还有前面Java虚拟机的书里也会提到Java内存模型，
+这对于你理解Java多线程并发运行时会有哪些问题也是很有帮助的。
+
+### 2.13 XXX in Action
+
+有大量以"XXX in Action"命名的书，比如Struts in Action，多是介绍具体框架的，
+这类书实战性比较强，因为框架更新换代也很快，过时也比较快，所以你可以从图书馆里借阅，
+或者让公司出钱买也行，这样你能省点费用。
+
+
+### 2.14 直接去研究Java开源项目的代码吧
+
+看书只是为了打基础，并且是件相对容易的事，想要与他人不同，
+你应该去研究你感兴趣的Java开源项目的代码，
+看源代码是件需要时间和考验耐性的事，如何看？这是门学问，是另一个重大的话题，我就不在这里多谈了。:)
+顺便卖个广告，你可以关注[我的GitHub主页](https://github.com/codefollower) 里面有大量开源项目的研究。
+
+
+至此，有关Java你需要掌握的最核心的东西都列在上面了，行动起来吧，不能只看书，实践也很重要。
+
+
+
+## 3. 扩展你的眼界
+
+虽然上面谈到的计算机基础类的书籍与Java相关书籍已够用了，
+不过，我想你不会满足于此吧，多读点书没坏处，技多不压身，
+最不济的情况下学点别的至少也能吹吹牛不是。:)
+
+以下是我觉得可以读一读的书，至少已被我过滤了一回，你不用担心它们是垃圾书籍(我确实买了很多垃圾书籍)，
+当然不需要每本都看，比如像TCP/IP这种，如果你不做OS、不做网络层的开发不读也可以，比如TCP/IP三卷本我多半是买来收藏的。
+这些书我就不一一介绍了，全列在这了。
+![3-1-1](http://ww4.sinaimg.cn/mw690/69af9baegw1ea6yozj28xj20rt0f1q7n.jpg)
+![3-1-1](http://ww2.sinaimg.cn/mw690/69af9baegw1ea6yp23jf7j20nz0esdk8.jpg)
