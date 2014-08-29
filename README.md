@@ -4,4 +4,4 @@
 
 * [有关Garbage Collection的历史综述与最新进展以及在HotSpot VM中的具体实现](http://hllvm.group.iteye.com/group/topic/41086)
 
-* [有关并发编程的历史综述与最新进展以及在HotSpot VM中的具体实现现](http://hllvm.group.iteye.com/group/topic/40608)
+* [有关并发编程的历史综述与最新进展以及在HotSpot VM中的具体实现](http://hllvm.group.iteye.com/group/topic/40608)
