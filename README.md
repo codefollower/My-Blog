@@ -12,3 +12,13 @@
 * [有关并发编程的历史综述与最新进展以及在HotSpot VM中的具体实现](http://hllvm.group.iteye.com/group/topic/40608)
 
 * [在Windows中构建和调试OpenJDK8u](http://hllvm.group.iteye.com/group/topic/41271)
+
+
+## 数据库
+
+* [一种非常新颖的基于局部时间戳的多版本冲突与有效性检测的分布式事务模型](https://github.com/codefollower/Lealone/wiki/Lealone-transaction-model)
+
+
+## 早期博客 
+
+* [Without SSH/JSP/Servlet,不走寻常路,Java可以更酷](http://www.iteye.com/topic/517796)
