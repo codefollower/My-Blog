@@ -13,6 +13,8 @@
 
 * [在Windows中构建和调试OpenJDK8u](http://hllvm.group.iteye.com/group/topic/41271)
 
+* [用Eclipse和Visual Studio全程调试上层的Java到HotSpot VM的C++代码](http://hllvm.group.iteye.com/group/topic/41290)
+
 
 ## 数据库
 
