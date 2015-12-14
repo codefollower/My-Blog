@@ -20,6 +20,7 @@
 
 * [一种非常新颖的基于局部时间戳的多版本冲突与有效性检测的分布式事务模型](https://github.com/codefollower/Lealone/wiki/Lealone-transaction-model)
 
+* [用本地时间戳实现全局的snapshot isolation](https://github.com/codefollower/My-Blog/issues/8)
 
 ## 早期博客 
 
