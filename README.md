@@ -22,6 +22,11 @@
 
 * [用本地时间戳实现全局的snapshot isolation](https://github.com/codefollower/My-Blog/issues/8)
 
+
+## Vert.x
+
+* [一步一步教你如何创建第一个Vert.x Web应用](https://github.com/codefollower/My-Blog/issues/10)
+
 ## 早期博客 
 
 * [Without SSH/JSP/Servlet,不走寻常路,Java可以更酷](http://www.iteye.com/topic/517796)
