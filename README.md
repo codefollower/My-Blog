@@ -8,6 +8,16 @@
 
 * [记录日常踩到的技术坑](https://github.com/codefollower/My-Blog/issues/21)
 
+
+## 数据库
+
+* [Lealone一个技术思想爆炸的数据库](https://github.com/lealone/Lealone)
+
+* [Lealone-Plugins一个能展示Lealone数据库如何优雅扩展的项目](https://github.com/lealone/Lealone-Plugins)
+
+* [Lealone-Platform一个野心庞大的想用Lealone数据库改变应用开发模式的项目](https://github.com/lealone/Lealone-Platform)
+
+
 ## OpenJDK、HotSpot VM
 
 * [有关Garbage Collection的历史综述与最新进展以及在HotSpot VM中的具体实现](http://hllvm.group.iteye.com/group/topic/41086)
@@ -19,17 +29,10 @@
 * [用Eclipse和Visual Studio全程调试上层的Java到HotSpot VM的C++代码](http://hllvm.group.iteye.com/group/topic/41290)
 
 
-## 数据库
-
-* [Lealone一个技术思想爆炸的数据库](https://github.com/lealone/Lealone)
-
-* [Lealone-Plugins一个能展示Lealone数据库如何优雅扩展的项目](https://github.com/lealone/Lealone-Plugins)
-
-* [Lealone-Platform一个野心庞大的想用Lealone数据库改变应用开发模式的项目](https://github.com/lealone/Lealone-Platform)
-
-## Vert.x
+## 开源框架或工具库
 
 * [一步一步教你如何创建第一个Vert.x Web应用](https://github.com/codefollower/My-Blog/issues/10)
+
 
 ## 早期博客 
 
