@@ -21,8 +21,11 @@
 
 ## 数据库
 
-* todo
+* [Lealone一个技术思想爆炸的数据库](https://github.com/lealone/Lealone)
 
+* [Lealone-Plugins一个能展示Lealone数据库如何优雅扩展的项目](https://github.com/lealone/Lealone-Plugins)
+
+* [Lealone-Platform一个野心庞大的想用Lealone数据库改变应用开发模式的项目](https://github.com/lealone/Lealone-Platform)
 
 ## Vert.x
 
