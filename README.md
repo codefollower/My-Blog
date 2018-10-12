@@ -1,9 +1,12 @@
-## 读书、学习
+## 读书、学习、分享
 
 * [如何从我的GitHub主页中找到有用的技术内容？](https://github.com/codefollower/My-Blog/issues/3)
 
 * [想通过自学成为一个有良好计算机专业素养的Java程序员要读哪些书？](https://github.com/codefollower/My-Blog/issues/1)
 
+* [日常各类技术想法分享](https://github.com/codefollower/My-Blog/issues/22)
+
+* [记录日常踩到的技术坑](https://github.com/codefollower/My-Blog/issues/21)
 
 ## OpenJDK、HotSpot VM
 
