@@ -17,6 +17,7 @@
 
 * [Lealone-Platform一个野心庞大的想用Lealone数据库改变应用开发模式的项目](https://github.com/lealone/Lealone-Platform)
 
+* [MVCC 的局限性](https://github.com/codefollower/My-Blog/issues/23)
 
 ## OpenJDK、HotSpot VM
 
