@@ -19,6 +19,8 @@
 
 * [MVCC 的局限性](https://github.com/codefollower/My-Blog/issues/23)
 
+* [事务隔离级别: REPEATABLE_READ 的瑕疵](https://github.com/codefollower/My-Blog/issues/24)
+
 ## OpenJDK、HotSpot VM
 
 * [有关Garbage Collection的历史综述与最新进展以及在HotSpot VM中的具体实现](http://hllvm.group.iteye.com/group/topic/41086)
