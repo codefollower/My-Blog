@@ -8,6 +8,7 @@
 
 * [记录日常踩到的技术坑](https://github.com/codefollower/My-Blog/issues/21)
 
+* [聊聊过去的技术历程](https://github.com/codefollower/My-Blog/issues/30)
 
 ## 数据库
 
