@@ -10,6 +10,12 @@
 
 * [聊聊过去的技术历程](https://github.com/codefollower/My-Blog/issues/30)
 
+## 年度总结
+
+* [再见 2017，你好 2018](https://github.com/codefollower/My-Blog/issues/17)
+
+* [再见 2018，你好 2019](https://github.com/codefollower/My-Blog/issues/31)
+
 ## 数据库
 
 * [Lealone一个技术思想爆炸的数据库](https://github.com/lealone/Lealone)
