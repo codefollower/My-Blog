@@ -16,6 +16,8 @@
 
 * [再见 2018，你好 2019](https://github.com/codefollower/My-Blog/issues/31)
 
+* [再见 2019，你好 2020](https://github.com/codefollower/My-Blog/issues/35)
+
 ## 数据库
 
 * [Lealone数据库项目主页](https://github.com/lealone/Lealone)
