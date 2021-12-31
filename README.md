@@ -20,6 +20,8 @@
 
 * [再见 2020，你好 2021](https://github.com/codefollower/My-Blog/issues/36)
 
+* [再见 2021，你好 2022](https://github.com/codefollower/My-Blog/issues/37)
+
 ## 数据库
 
 * [Lealone数据库项目主页](https://github.com/lealone/Lealone)
